@@ -1,6 +1,4 @@
 # Fully-Differential-6th-Order-Sallen-Key-Active-Low-Pass-Filter
-README
-Design and Implementation of a Fully Differential 6th-Order Sallen-Key Active Low-Pass Filter
 
 - Overview :
   
